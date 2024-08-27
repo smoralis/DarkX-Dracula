@@ -1,5 +1,6 @@
 # DarkX
 DarkX Dracula Skin for foobar2000 Mobile, v1.5 preview
+https://draculatheme.com/
 
 Android
 Use the last v1.5 preview available https://www.foobar2000.org/apk
@@ -39,7 +40,7 @@ Radio:
     Genre
     Codec - Bitrate - Sample Rate - Channels
 
-![alt text](https://i.imgur.com/1eJc1oT.png)
+![alt text](https://i.imgur.com/fAhJobU.jpeg)
 
 Credits:
 Button icons MIT © Phosphor Icons https://github.com/phosphor-icons
