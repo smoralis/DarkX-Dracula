@@ -1,4 +1,4 @@
-# DarkX
+# DarkX Dracula
 DarkX Dracula Skin for foobar2000 Mobile, v1.5 preview
 https://draculatheme.com/
 
