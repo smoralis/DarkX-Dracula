@@ -40,7 +40,7 @@ Radio:
     Genre
     Codec - Bitrate - Sample Rate - Channels
 
-![alt text](https://i.imgur.com/fAhJobU.jpeg)
+![alt text]([img]https://i.imgur.com/EpS7w1v.jpeg)
 
 Credits:
 Button icons MIT © Phosphor Icons https://github.com/phosphor-icons
