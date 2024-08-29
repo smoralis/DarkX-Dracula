@@ -1,5 +1,8 @@
 # DarkX Dracula
 DarkX Dracula Skin for foobar2000 Mobile, v1.5 preview
+
+Theme colours based on Dracula theme. 
+
 https://draculatheme.com/
 
 Android
